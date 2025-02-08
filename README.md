@@ -5,6 +5,7 @@ Welcome to **G AI** – Your intelligent AI assistant designed to automate tasks
 ## 🌐 Access G AI
 You can access **G AI** online at:
 [here](https://enom-git.github.io/google-ai/Index.html)
+- 📛i would not recomend trying to have a convo with the ai as it dose not store your recent chats so it can not edit or expand on its last chat📛
 
 ## 📥 Download & Install
 To install G AI on your system:
