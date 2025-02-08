@@ -12,7 +12,7 @@ To install G AI on your system:
 2. Extract the `g-ai.zip` file.
 3. Double-click the **G AI Shortcut** to launch G AI.
 
-##✅Requirements
+## ✅Requirements
 python 3+
 
 ## ⚡ Features
@@ -21,7 +21,7 @@ python 3+
 - 🔍 **Instant Search** capabilities
 - 🎨 **Modern ChatGPT-like UI**
 
-##If in doubt⛔
+## If in doubt⛔
 our team has worked hard to make the code hack free
 the code has been deep obscurified for safty reasons
 it might say untrusted app but dont wory its completly safe
